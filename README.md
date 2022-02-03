@@ -1,0 +1,1 @@
+JAQMA_test_technique
